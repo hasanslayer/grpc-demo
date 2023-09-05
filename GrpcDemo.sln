@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcServer", "GrpcServer\GrpcServer.csproj", "{F35DB7E9-D43B-437E-9647-748428723340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcClient", "GrpcClient\GrpcClient.csproj", "{D41539A0-B8BE-41EE-8D4F-3849912F2C0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35DB7E9-D43B-437E-9647-748428723340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35DB7E9-D43B-437E-9647-748428723340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35DB7E9-D43B-437E-9647-748428723340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35DB7E9-D43B-437E-9647-748428723340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D41539A0-B8BE-41EE-8D4F-3849912F2C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41539A0-B8BE-41EE-8D4F-3849912F2C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41539A0-B8BE-41EE-8D4F-3849912F2C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41539A0-B8BE-41EE-8D4F-3849912F2C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBE4F925-F871-4B5C-84E1-2E89FA13C62B}
+	EndGlobalSection
+EndGlobal
